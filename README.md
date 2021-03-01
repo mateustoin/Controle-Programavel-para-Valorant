@@ -8,11 +8,21 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Antonio-0282d0?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-antonio-robotica/)](https://www.linkedin.com/in/mateus-antonio-robotica/)
 -->
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/bittoin_)
-[![Youtube Badge](  https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([instagram.com/bittoin_](https://www.youtube.com/channel/UCnkVhwxeXeJvUZx6BJ5Wa2Q))
-[![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](twitch.tv/bittoin)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/bittoin)
+<a href="https://instagram.com/bittoin_">
+<img border="0" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
+<a href="https://www.youtube.com/channel/UCnkVhwxeXeJvUZx6BJ5Wa2Q">
+<img border="0" alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+<a href="https://www.twitch.tv/bittoin">
+<img border="0" alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+</a>
+
+<a href="https://t.me/bittoin">
+<img border="0" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
 
 
 <h3 align="center">
