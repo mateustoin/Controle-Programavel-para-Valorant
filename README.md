@@ -8,21 +8,23 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Antonio-0282d0?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-antonio-robotica/)](https://www.linkedin.com/in/mateus-antonio-robotica/)
 -->
 
-<a href="https://instagram.com/bittoin_">
-<img border="0" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+<div align='center'>
+  <a href="https://instagram.com/bittoin_">
+  <img border="0" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 
-<a href="https://www.youtube.com/channel/UCnkVhwxeXeJvUZx6BJ5Wa2Q">
-<img border="0" alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
+  <a href="https://www.youtube.com/channel/UCnkVhwxeXeJvUZx6BJ5Wa2Q">
+  <img border="0" alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
 
-<a href="https://www.twitch.tv/bittoin">
-<img border="0" alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-</a>
+  <a href="https://www.twitch.tv/bittoin">
+  <img border="0" alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+  </a>
 
-<a href="https://t.me/bittoin">
-<img border="0" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
+  <a href="https://t.me/bittoin">
+  <img border="0" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</div>
 
 
 <h3 align="center">
@@ -39,27 +41,34 @@
 
 <h2 id="sobre">Sobre</h2>
 
-Explicação sobre o projeto.
+O controle programável foi feito com o objetivo de entreter e jogar Valorant utilizando Arduino, como pode ser visto no gif abaixo.
 
 <div align='center'>
-    <img src="images/circuit.png">
-    <p>Figura 1. Substituir por figura</p>
+    <img src="images/trecho-gif.gif">
+    <p>Figura 1. Exemplo de jogabilidade com Arduino Esplora</p>
 </div>
 
-Realizado durante as lives da twitch no <a href="https://twitch.tv/bittoin">canal BitToin</a>, foi um projeto que utilizou como base um pacote em Dart feito também durante as lives para a comunicação da linguagem suportada em Dart/Flutter com o Drone. Atualmente o pacote está disponível de maneira oficial no site de pacotes do Dart (<a href="https://pub.dev/packages/tello">link do package</a>).
+Realizado durante as lives da twitch no <a href="https://twitch.tv/bittoin">canal BitToin</a>, foi um projeto que utilizou o jogo Valorant, da Riot Games, como exemplo de aplicação que pode ser controlada e influenciada pelo Arduino apenas para fins de entretenimento. Embora o Arduino seja utilizado em projetos, pesquisas e trabalhos sérios, é importante lembrar que também é muito utilizado em hobbies e passa tempos!
 
 <h2 id="comecando">Começando</h2>
 
-Siga estas instruções para criar, replicar e modificar o modelo do projeto na sua máquina. 
+Siga estas instruções para criar, replicar e modificar o modelo do projeto na sua máquina.
 
 <h3 id='pre_req'>Pré-requisitos</h3>
 
-
-<h3 id='instalacao'>Instalação</h3>
-
+> - Arduino Esplora (display não necessário)
+> - Arduino IDE 1.8.13 ou PlatformIO
 
 <h2 id="uso">Uso</h2>
 
+Basta abrir o código encontrado na pasta <a href="https://github.com/bittoin/Controle-Programavel-para-Valorant/tree/main/control_valorant_esplora"> Control Valorant Esplora</a> dentro da IDE do Arduino e realizar o upload na placa.
+
+A imagem abaixo indica todos os comandos que podem ser feitos para jogar baseado no código feito.
+
+<div align='center'>
+    <img src="images/instrucao.png">
+    <p>Figura 2. Comandos do controle baseado no código disponibilizado</p>
+</div>
 
 <h2 id='todo'>Features</h2>
 
