@@ -76,6 +76,8 @@ A imagem abaixo indica todos os comandos que podem ser feitos para jogar baseado
     <p>Figura 2. Comandos do controle baseado no código disponibilizado</p>
 </div>
 
+> :warning: **Se você replicar**: Ao fazer upload do código ao Arduino, utilize apenas no jogo! Os clicks e movimentos de mouse e teclado funcionarão sempre que o Arduino for conectado na porta USB.
+
 <h2 id='todo'>Features</h2>
 
 - [x] Andar em todas as direções
