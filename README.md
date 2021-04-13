@@ -66,16 +66,19 @@ Basta abrir o código encontrado na pasta <a href="https://github.com/bittoin/Co
 A imagem abaixo indica todos os comandos que podem ser feitos para jogar baseado no código feito.
 
 <div align='center'>
-    <img src="images/instrucao.png">
+    <img src="images/instrucao-completo.png">
     <p>Figura 2. Comandos do controle baseado no código disponibilizado</p>
 </div>
 
 <h2 id='todo'>Features</h2>
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-- [ ] Feature 4
+- [x] Andar em todas as direções
+- [x] Mirar em todas as direções
+- [x] Atirar
+- [x] Pular
+- [x] Soltar skills
+- [x] Trocar armas
+- [x] Utilizar ultimate ultimate
 
 
 ## Licença
