@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="images/header.gif">
+  <img src="https://github.com/bittoin/Controle-Programavel-para-Valorant/blob/main/images/header.gif">
 </h1>
 
 ---
@@ -46,7 +46,7 @@
 O controle programável foi feito com o objetivo de entreter e jogar Valorant utilizando Arduino, como pode ser visto no gif abaixo.
 
 <div align='center'>
-    <img src="images/trecho-gif.gif">
+    <img src="https://github.com/bittoin/Controle-Programavel-para-Valorant/blob/main/images/trecho-gif.gif">
     <p>Figura 1. Exemplo de jogabilidade com Arduino Esplora</p>
 </div>
 
@@ -72,7 +72,7 @@ Basta abrir o código encontrado na pasta <a href="https://github.com/bittoin/Co
 A imagem abaixo indica todos os comandos que podem ser feitos para jogar baseado no código feito.
 
 <div align='center'>
-    <img src="images/instrucao-completo.png">
+    <img src="https://github.com/bittoin/Controle-Programavel-para-Valorant/blob/main/images/instrucao-completo.png">
     <p>Figura 2. Comandos do controle baseado no código disponibilizado</p>
 </div>
 
