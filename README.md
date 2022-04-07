@@ -63,7 +63,7 @@ Siga estas instruções para criar, replicar e modificar o modelo do projeto na 
 <h3 id='pre_req'>Pré-requisitos</h3>
 
 > - Arduino Esplora (display não necessário)
-> - Arduino IDE 1.8.13 ou PlatformIO
+> - Arduino IDE 1.8.13+ ou PlatformIO
 
 <h2 id="uso">Uso</h2>
 
